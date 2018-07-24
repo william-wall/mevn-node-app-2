@@ -1,0 +1,15 @@
+[
+  {
+    "upvotes": 0,
+    "_id": "5b51d9dfe7179a508a8f028e",
+    "paymenttype": "PayPal",
+    "amount": 1000
+  },
+  {
+    "upvotes": 0,
+    "_id": "5b51daecd8e04e23b8dc1568",
+    "paymenttype": "Direct",
+    "amount": 2541,
+    "__v": 0
+  }
+]

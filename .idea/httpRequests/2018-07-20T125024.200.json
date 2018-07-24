@@ -1,0 +1,10 @@
+{
+  "message": "Donation Successfully Added!",
+  "data": {
+    "upvotes": 0,
+    "_id": "5b51cc800e3dd72f94338a54",
+    "paymenttype": "PayPal",
+    "amount": 1101,
+    "__v": 0
+  }
+}

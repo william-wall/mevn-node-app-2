@@ -1,0 +1,509 @@
+GET http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"Direct", "amount":2541,"upvotes":1}
+
+<> 2018-07-24T044838.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"Direct", "amount":2541,"upvotes":1}
+
+<> 2018-07-20T015228.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"Direct", "amount":2541,"upvotes":1}
+
+<> 2018-07-20T015156.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T014757.200.json
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T014401.200.json
+
+###
+
+GET http://localhost:3000/donations/votes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T011404.200.json
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T011134.200.json
+
+###
+
+GET http://localhost:3000/donations/5b51cc800e3dd72f94338a54
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T011119.200.json
+
+###
+
+DELETE http://localhost:3000/donations/5b51cc800e3dd72f94338a54
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T011056.200.json
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010621.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51bb68276d32aebdb2d123/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010609.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51bb68276d32aebdb2d123/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010608.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51bb68276d32aebdb2d123/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010606.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51bb68276d32aebdb2d123/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010527.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51bb68276d32aebdb2d123/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010413.500.html
+
+###
+
+PUT http://localhost:3000/donations/5b51bb68276d32aebdb2d123/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010406.404.html
+
+###
+
+PUT http://localhost:3000/donations/5b51bb68276d32aebdb2d123/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010334.500.html
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010317.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51cc800e3dd72f94338a54/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T010238.500.html
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125750.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51cc800e3dd72f94338a54/upvotes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125735.404.html
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125648.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51cc800e3dd72f94338a54/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125545.500.html
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125518.200.json
+
+###
+
+PUT http://localhost:3000/donations/5b51cc800e3dd72f94338a54/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125358.500.html
+
+###
+
+PUT http://localhost:3000/donations/5b51cc800e3dd72f94338a54/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125344.500.html
+
+###
+
+GET http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125037.200.json
+
+###
+
+POST http://localhost:3000/donations/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"paymenttype":"PayPal", "amount":1101,"upvotes":0}
+
+<> 2018-07-20T125024.200.json
+
+###
+
+GET http://localhost:3000/donations/5b51bb68276d32aebdb2d123f
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-20T124346.200.json
+
+###
+
+GET http://localhost:3000/donations/5b51bb68276d32aebdb2d123
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-20T124332.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-20T123030.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+###
+
+GET http://localhost:3000/donations/
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T112652.200.json
+
+###
+
+GET http://localhost:3000/donations/
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T103130.200.json
+
+###
+
+GET http://localhost:3000/donations/1000001
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T103123.200.json
+
+###
+
+DELETE http://localhost:3000/donations/1000001
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T103109.200.json
+
+###
+
+DELETE http://localhost:3000/donations/1000001
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T103048.404.html
+
+###
+
+GET http://localhost:3000/donations/1000001
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T102900.200.json
+
+###
+
+PUT http://localhost:3000/donations/1000001/vote
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T102845.200.json
+
+###
+
+GET http://localhost:3000/donations/1000001
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T102743.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-07-20T095759.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"InDirect","amount":99500,"upvotes":0}
+
+<> 2018-07-20T095739.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2018-07-20T095347.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2018-07-20T095326.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-07-20T095032.200.json
+
+###
+
+GET http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2018-07-18T115700.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2018-07-18T115551.404.html
+
+###
+

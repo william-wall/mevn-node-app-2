@@ -1,0 +1,10 @@
+{
+  "message": "Donation Successfully Added!",
+  "data": {
+    "upvotes": 0,
+    "_id": "5b51daecd8e04e23b8dc1568",
+    "paymenttype": "Direct",
+    "amount": 2541,
+    "__v": 0
+  }
+}
